@@ -14,6 +14,8 @@ The **Personal Crypto Trading Portfolio** is a comprehensive application designe
 - **Export Options**: Export data in PDF or Excel formats.
 - **Real-Time Integration**: Sync with live trading accounts for real-time updates.
 
+### [Comprehensive Feature Analysis](https://github.com/fx-manager/.github/blob/main/profile/project-comprehensive.md)
+
 ---
 
 ## Project Contributors
